@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=성장하는 개발자render&fontSize=90" />
 
 <!--
 **ewisewjd/ewisewjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
