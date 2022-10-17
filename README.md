@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 기타 skill
 
 ## 도메인 knowledge
-<img alt="역사" src ="https://img.shields.io/badge/역사학-0769AD.svg?&style=for-the-badge&logo=역사학, 사회&logoColor=BLUE"/> <img alt="수학" src ="https://img.shields.io/badge/수학-0769AD.svg?&style=for-the-badge&logo=수학 &logoColor=white"/> <img alt="통계" src ="https://img.shields.io/badge/통계-239120.svg?&style=for-the-badge&logo=통계&logoColor=pink"/>
+<img alt="역사" src ="https://img.shields.io/badge/역사학-0769AD.svg?&style=for-the-badge&logo=역사학, 사회&logoColor=BLUE"/> <img alt="수학" src ="https://img.shields.io/badge/수학-0769AD.svg?&style=for-the-badge&logo=수학 &logoColor=white"/> <img alt="통계" src ="https://img.shields.io/badge/통계-0769AD.svg?&style=for-the-badge&logo=통계&logoColor=white"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewisewjd)](https://github.com/anuraghazra/github-readme-stats)
