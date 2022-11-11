@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=성장하는개발자%20&fontSize=90" />
 
 ## Tech skill
-<img alt="python" src ="https://img.shields.io/badge/python-239120.svg?&style=for-the-badge&logo=python&logoColor=green"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <img alt="java" src ="https://img.shields.io/badge/java-CB3837.svg?&style=for-the-badge&logo=JAVA&logoColor=red"/> <img alt="node.js" src ="https://img.shields.io/badge/node.js-239120.svg?&style=for-the-badge&logo=node.js&logoColor=green"/><img alt="c++" src ="https://img.shields.io/badge/c++-239120.svg?&style=for-the-badge&logo=c++&logoColor=green"/>
+<img alt="python" src ="https://img.shields.io/badge/python-239120.svg?&style=for-the-badge&logo=python&logoColor=green"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <img alt="java" src ="https://img.shields.io/badge/java-CB3837.svg?&style=for-the-badge&logo=java&logoColor=red"/> <img alt="node.js" src ="https://img.shields.io/badge/node.js-239120.svg?&style=for-the-badge&logo=node.js&logoColor=green"/> <img alt="c++" src ="https://img.shields.io/badge/c++-239120.svg?&style=for-the-badge&logo=c++&logoColor=aqua"/>
 
 
 ## 기타 skill
