@@ -15,16 +15,60 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=성장하는개발자%20&fontSize=90" />
 
-## Tech skill
-<img alt="python" src ="https://img.shields.io/badge/python-239120.svg?&style=for-the-badge&logo=python&logoColor=green"/> <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"/> <img alt="java" src ="https://img.shields.io/badge/java-CB3837.svg?&style=for-the-badge&logo=java&logoColor=red"/> <img alt="node.js" src ="https://img.shields.io/badge/node.js-239120.svg?&style=for-the-badge&logo=node.js&logoColor=green"/> <img alt="c++" src ="https://img.shields.io/badge/c++-239120.svg?&style=for-the-badge&logo=c++&logoColor=aqua"/>
+# 🌱 성장하는 개발자, 정충원입니다!
 
+## 🛠 Tech Stack  
 
-## 기타 skill
-<img alt="arudino, rasberrypi" src ="https://img.shields.io/badge/IOT-239120.svg?&style=for-the-badge&logo=arduino&logoColor=green"/> <img alt="web" src ="https://img.shields.io/badge/falsk,django-61DAFB.svg?&style=for-the-badge&logo=python&logoColor=green"/>  <img alt="ros" src ="https://img.shields.io/badge/ros-61DAFB.svg?&style=for-the-badge&logo=c++&logoColor=red"/>
+### Languages & Libraries/Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 
-## 도메인 knowledge
-<img alt="역사" src ="https://img.shields.io/badge/역사학-0769AD.svg?&style=for-the-badge&logo=역사학, 사회&logoColor=BLUE"/> <img alt="수학" src ="https://img.shields.io/badge/수학-0769AD.svg?&style=for-the-badge&logo=수학 &logoColor=white"/> <img alt="통계" src ="https://img.shields.io/badge/통계-0769AD.svg?&style=for-the-badge&logo=통계 &logoColor=white"/> <img alt="데이터 과학" src ="https://img.shields.io/badge/데이터 과학-0769AD.svg?&style=for-the-badge&logo=통계 &logoColor=white"/>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) – 정보처리기사 학습  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) – 정보처리기사 학습  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+&nbsp;&nbsp; └ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewisewjd)](https://github.com/anuraghazra/github-readme-stats)
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+---
+
+## 📚 도메인 Knowledge  
+![History](https://img.shields.io/badge/역사-8CA1AF?style=flat-square)  
+![Math](https://img.shields.io/badge/수학-FFD700?style=flat-square)  
+![Statistics](https://img.shields.io/badge/통계-4682B4?style=flat-square)  
+![DataScience](https://img.shields.io/badge/데이터과학-4B8BBE?style=flat-square&logo=databricks&logoColor=white)  
+
+---
+
+## 📂 Projects   
+- [심방세동 탐지 모델](링크)  
+- [UWB 추종 주행 로봇](링크)  
+- [빅데이터 분석 프로젝트](링크)  
+
+👉 [전체 프로젝트 보기](프로젝트 폴더 링크)
+
+---
+
+## ✍️ Blog & Study  
+- [네이버 블로그](https://blog.naver.com/do2127) – 개인용 블로그
+- [깃허브 블로그](https://ewisewjd.github.io/) – 학습용 기록  
+- [스터디 노트](스터디 레포 링크) – 강의/교재 기반 학습 기록  
+- [지식 아카이브](지식 아카이브 링크) – 제텔카스텐 기반 개념 정리  
+
+---
+
+## 📊 GitHub Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewisewjd&show_icons=true&theme=default)
