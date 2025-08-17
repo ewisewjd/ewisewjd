@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ## 📂 Projects   
 - [심방세동 탐지 모델](https://github.com/ewisewjd/portfolio/tree/master/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%8B%AC%EB%B0%A9%EC%84%B8%EB%8F%99%20%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8)  
-- [UWB 추종 주행 로봇](링크)  
+- [수분이](https://github.com/ewisewjd/portfolio/tree/master/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%88%98%EB%B6%84%EC%9D%B4)  
 - [빅데이터 분석 프로젝트](https://github.com/ewisewjd/portfolio/tree/master/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)  
 
 👉 [전체 프로젝트 보기](https://github.com/ewisewjd/portfolio)
