@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 
-![sql](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=sqlite&logoColor=white) 
+![sql](https://img.shields.io/badge/sqlite-EE4C2C?style=flat-square&logo=sqlite&logoColor=white) 
 ---
 
 ### Tools & Platforms  
