@@ -29,12 +29,14 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) – 정보처리기사 학습  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) – 정보처리기사 학습  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-&nbsp;&nbsp; └ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 
+![sql](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=sqlite&logoColor=white) 
 ---
 
 ### Tools & Platforms  
